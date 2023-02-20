@@ -1,5 +1,7 @@
-<h2>Hello, I'm Ken.</h2>
+<h3>Hello, I'm Ken.</h3>
+
 一个胸怀拯救世界的伟大理想🔥，却持续混吃等死、得过且过的勇者👾
+
 
 **About me:**
 
@@ -10,8 +12,6 @@
 - 🌍 主页: https://www.ken-chy129.cn/
 
 - 🚀 CSDN: https://blog.csdn.net/qq_25046827
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
 
 - 💬 联系我: ken-chy129@qq.com
 

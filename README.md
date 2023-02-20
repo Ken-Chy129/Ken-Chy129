@@ -1,10 +1,21 @@
-<link rel='stylesheet' href='https://www.ken-chy129.cn/themes/LIlGG_Sakura/styles/style.min.css?ver=1.3.4' type='text/css' media='all'>
 
 I'm a self-taught passionate FrontEnd developer from India 🇮🇳
 
-<div class="poem-wrap">
-    	<div class="poem-border poem-left"></div>
-	    <div class="poem-border poem-right"></div>
+<div style="position: relative;
+    width: 730px;
+    max-width: 80%;
+    border: 2px solid #797979;
+    border-top: none;
+    text-align: center;
+    margin: 80px auto;">
+    	<div style="    position: absolute;
+    height: 2px;
+    width: 27%;
+    background-color: #797979; left: 0px"></div>
+	    <div style="    position: absolute;
+    height: 2px;
+    width: 27%;
+    background-color: #797979; right: 0px"></div>
 		<h1>MY MOTTO</h1>
 		<p id="poem">
 	    	<ruby id="poem" style="font-family: Kaiti; line-height: 40px;">

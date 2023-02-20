@@ -1,39 +1,14 @@
-
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
-
-<div style="position: relative;
-    width: 730px;
-    max-width: 80%;
-    border: 2px solid #797979;
-    border-top: none;
-    text-align: center;
-    margin: 80px auto;">
-    	<div style="    position: absolute;
-    height: 2px;
-    width: 27%;
-    background-color: #797979; left: 0px"></div>
-	    <div style="    position: absolute;
-    height: 2px;
-    width: 27%;
-    background-color: #797979; right: 0px"></div>
-		<h1>MY MOTTO</h1>
-		<p id="poem">
-	    	<ruby id="poem" style="font-family: Kaiti; line-height: 40px;">
-			其实你定然都发现
-        	<rt></rt>
-			我有很多未达完美事情
-          	<rt></rt>
-			我只懂得再努力每天
-	    	</ruby>
-        </p>
-		<p id="info">陈奕迅 · 无条件</p>
-</div>
+一个胸怀拯救世界的伟大理想🔥，却持续混吃等死、得过且过的勇者👾
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
+- 📖 教育背景: 24届网络工程本科在读学生
 
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
+- 💼 求职意向: Java后端开发工程师
+
+- 🌍 主页: https://www.ken-chy129.cn/
+
+- 🚀 CSDN: https://blog.csdn.net/qq_25046827
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 

@@ -1,6 +1,6 @@
 <h3>Hello, I'm Ken！</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;一个胸怀拯救世界的伟大理想🔥，却持续混吃等死、得过且过的勇者👾
+&nbsp;&nbsp;&nbsp;&nbsp;一个胸怀拯救世界的伟大理想🔥，却持续摆烂、得过且过的勇者👾
 
 
 <h3>About me:</h3>

@@ -1,19 +1,23 @@
 <h3>Hello, I'm Ken！</h3>
 
-&nbsp;&nbsp;&nbsp;&nbsp;一个对技术充满热情🔥，喜欢钻研探索的程序猿👾
+&nbsp;&nbsp;&nbsp;&nbsp;The one who is always passionate about life👾
 
 
 <h3>About me:</h3>
 
-- 📖 教育背景: 暨南大学24届网络工程本科
+- 📖 Background: 24fall Student from JNU - CS Department - Network Engineering
 
-- 💼 目前就职: 阿里巴巴淘天集团
+- 💼 Work at: Alibaba in Hangzhou
 
-- 🌍 个人网站: https://ken-chy129.cn
+- 🔥 Intrested in: Java, Development, OS, Design Patterns and so on...
 
-- 🚀 CSDN: https://blog.csdn.net/qq_25046827?spm=1000.2115.3001.5343
+- 🌍 Personal Website: https://ken-chy129.cn
 
-- 💬 联系我: ken-chy129@qq.com
+- 🚀 Blog: https://blog.csdn.net/qq_25046827
+
+- 💬 Connect Me: ken-chy129@qq.com
+
+Project List:
 
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ken-Chy129&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Chy129&layout=compact&theme=graywhite&hide_border=true" /></a> |

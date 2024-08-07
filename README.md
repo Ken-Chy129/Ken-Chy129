@@ -5,11 +5,11 @@
 
 <h3>About me:</h3>
 
-- 📖 Background: 24fall Student from JNU - CS Department - Network Engineering
+- 📖 Background: Bachelor in Network Engineering, Department of CS, Jinan University
 
 - 💼 Work at: Alibaba in Hangzhou
 
-- 🔥 Intrested in: Java, Development, OS, Design Patterns and so on...
+- 🔥 Intrested in: Java, Development, OS, Design Patterns...
 
 - 🌍 Personal Website: https://ken-chy129.cn
 

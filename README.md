@@ -11,7 +11,7 @@
 
 - 🔥 Intrested in: Java, Development, OS, Design Patterns...
 
-- 🌍 Personal Website: [https://ken-chy129.cn](https://ken-chy129.github.io/)
+- 🌍 Personal Website: [https://ken-chy129.github.io](https://ken-chy129.github.io/)
 
 - 🚀 Blog: https://blog.csdn.net/qq_25046827
 

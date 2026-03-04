@@ -11,14 +11,11 @@
 
 - 🔥 Intrested in: Java, Development, OS, Design Patterns...
 
-- 🌍 Personal Website: https://ken-chy129.cn
+- 🌍 Personal Website: [https://ken-chy129.cn](https://ken-chy129.github.io/)
 
 - 🚀 Blog: https://blog.csdn.net/qq_25046827
 
 - 💬 Connect Me: ken-chy129@qq.com
-
-Project List:
-
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ken-Chy129&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ken-Chy129&layout=compact&theme=graywhite&hide_border=true" /></a> |
 | ------------- | ------------- |

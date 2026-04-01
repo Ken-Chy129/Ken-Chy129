@@ -1,10 +1,10 @@
 ### Hey, I'm Ken 👋
 
-Software Engineer at ByteDance, working on AI Agentdevelopment. Previously at Alibaba.
+Software Engineer at ByteDance, currently building [AnyGen](https://www.anygen.io) — AI-powered content generation platform. Previously at Alibaba.
 
 Interested in AI engineering, backend architecture, and system optimization.
 
-- 🔭 Currently building [AnyGen](https://www.anygen.io) — AI-powered content generation platform
+---
 
 **Find me around the web:**
 
